@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dengzongyuan.jpg"
+  avatar           : "Dengzongyuan.png"
   name             : "Deng Zongyuan"
   pronouns         : # example: "she/her"  
   bio              : "An ordinary person with extraordinary efforts"
