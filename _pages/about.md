@@ -35,7 +35,7 @@ Work Experience
 
 3.Planning and Finance Specialist（Full-time）, CNOOC Oilfield Services Co., Ltd., 2023
 
-4.Research Assistant, Urban Agriculture Research Institute, Chinese Academy of Agricultural Sciences, 2023-present
+4.Research Assistant（Full-time）, Urban Agriculture Research Institute, Chinese Academy of Agricultural Sciences, 2023-present
 
 
 Honors and Scholarships
