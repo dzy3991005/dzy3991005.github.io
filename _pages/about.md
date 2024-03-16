@@ -15,14 +15,14 @@ Research Interest
 ======
 Innovation and Entrepreneurship
 
-Population and Social welfare
+Population and Social Welfare
 
-empirical asset pricing
+Empirical Asset Pricing
 
 
 Educational Background
 ------
-1.Bachelor of Economics, School of Economics, Henan University, 2009-2023
+1.Bachelor of Economics, School of Economics, Henan University, 2019-2023
 
 2.Master's degree in Finance and Investment, School of Humanities and Social Sciences, University of Nottingham Ningbo, 2024-2025
 
