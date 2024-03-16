@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant at the Institute of Urban Agriculture, Chinese Academy of Agricultural Sciences, and a master's candidate at the School of Humanities and Social Sciences, University of Nottingham Ningbo.
+I am currently a research assistant at the Institute of Urban Agriculture, Chinese Academy of Agricultural Sciences, and a master's candidate at the School of Humanities and Social Sciences, University of Nottingham Ningbo China.
 
 My research interests can be divided into two categories and a total of three branches. Firstly, I focus on China's economic development, with two of my most concerning issues. One is innovation and entrepreneurship, which includes perspectives between regions and within enterprises. The other is population and social welfare. Secondly, I focus on the empirical asset pricing field in the capital market, paying attention to the possible patterns that may exist in the capital market.
 
@@ -24,7 +24,7 @@ Educational Background
 ------
 1.Bachelor of Economics, School of Economics, Henan University, 2019-2023
 
-2.Master's degree in Finance and Investment, School of Humanities and Social Sciences, University of Nottingham Ningbo, 2024-2025
+2.Master's degree in Finance and Investment, School of Humanities and Social Sciences, University of Nottingham Ningbo China, 2024-2025
 
 
 Work Experience
